@@ -1,0 +1,12 @@
+{
+  "name": "ec-cube/SiteAuthPlugin",
+  "version": "1.0.0",
+  "description": "サ認証プラグイン",
+  "type": "eccube-plugin",
+  "require": {
+    "ec-cube/plugin-installer": "~0.0.7"
+  },
+  "extra": {
+    "code": "SiteAuthPlugin"
+  }
+}

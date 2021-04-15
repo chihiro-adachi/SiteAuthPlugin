@@ -1,0 +1,3 @@
+_plg_site_auth_plugin_routes:
+  resource: '../../../../PluginData/SiteAuthPlugin/routes_generated.yaml'
+  prefix:   /
